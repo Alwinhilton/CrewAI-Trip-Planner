@@ -1,0 +1,9 @@
+crewai
+langchain
+openai
+python-dotenv
+requests
+unstructured
+tiktoken
+langchain-community
+langchain-core
